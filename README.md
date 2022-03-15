@@ -1,4 +1,5 @@
-# currency-app
+# CURRENCY-AP
+Uma aplicação simples utilizando feita em vue 3 utilizando composition API
 
 ## Project setup
 ```
